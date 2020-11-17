@@ -1,0 +1,12 @@
+obrigatoriedade de encomenda e não cliente
+
+artigo -> descrição global
+produto -> descrição especifica
+
+tirar entidade da carpintaria
+
+encomendas clientes associados artigos 
+
+serviço
+encomenda material
+produtos

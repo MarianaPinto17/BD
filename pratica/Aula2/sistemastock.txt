@@ -1,0 +1,34 @@
+Entidades:
+	- Produto 
+ 		Atributos:
+		* código
+		* nome
+		* preço
+		* iva
+		* número unidades em armazém;
+	- Encomenda:
+		Atributos:
+		* nª encomenda;
+		* data realização da encomenda;
+		* fornecedor;
+	- Fornecedor
+		Atributos:
+		* nome;
+		* nif;
+		* endereço;
+		* fax;
+		* condições pagamento;
+		* código interno;
+		* Tipo de Fornecedor -> NÃO É UM ATRIBUTO, é uma entidade;
+
+Relações:
+	- Uma encomenda tem um fornecedor único
+		* Grau: binária
+		* Cardinalidade: N:1
+		* Obrigatoriedade de participação das entidades: encomenda é obrigatória e não o fornecedor 
+	- Uma encomenda contém um ou mais produtos
+		* Grau: binária
+		* Cardinalidade: N:M 
+		* Obrigatoriedade de participação das entidades: encomenda é obrigatória e produtos não é obrigatório
+
+https://www.draw.io

@@ -1,0 +1,7 @@
+Fornecedores:
+
+
+
+Funcionarios:
+1- lista contendo os funcionários que lá trabalham.
+2- lista 

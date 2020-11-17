@@ -1,0 +1,34 @@
+Problema 3.1
+
+a)
+
+Relações:
+Cliente(nome, endereço, num_carta, NIF);
+Aluguer(numero, data, duração);
+Balcão(nome, número, endereço);
+Veículo(marca, ano, matricula);
+Tipo_Veículo(designação, código, arcondicionado);
+Ligeiro(numlugares, portas, combustível);
+Pesado(peso, passageiros);
+
+b) 
+Chaves candidatas:
+	Cliente: Num_carta;
+	Aluguer: Cliente_NIF;
+	Balcão: Enddereço;
+
+Chaves primárias:
+	Cliente: NIF;
+	Aluguer: número
+	Balcão: número
+	Veículo: matricula;
+	Tipo_Veículo: código;
+	Ligeiro: veiculo_cod;
+	Pesado: veiculo_cod;
+
+Chaves Estrangeiras:
+	Aluguer: nif_cliente, num_bal, mat_veiculo;
+	Veículo: veiculo_cod;
+	Ligeiro: veiculo_cod;
+	Pesado: veiculo_cod;
+	Similaridade: código_vl, código_vp;

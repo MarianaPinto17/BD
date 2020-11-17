@@ -1,0 +1,9 @@
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\BD\pratica\Aula8\Aula8_Material\Contacts_CSharp\ContactsC#\Contacts\bin\Debug\Contacts.exe
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\BD\pratica\Aula8\Aula8_Material\Contacts_CSharp\ContactsC#\Contacts\bin\Debug\Contacts.pdb
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\BD\pratica\Aula8\Aula8_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Debug\Contacts.csprojAssemblyReference.cache
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\BD\pratica\Aula8\Aula8_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Debug\Contacts.Form1.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\BD\pratica\Aula8\Aula8_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\BD\pratica\Aula8\Aula8_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\BD\pratica\Aula8\Aula8_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\BD\pratica\Aula8\Aula8_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Debug\Contacts.exe
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\BD\pratica\Aula8\Aula8_Material\Contacts_CSharp\ContactsC#\Contacts\obj\x86\Debug\Contacts.pdb

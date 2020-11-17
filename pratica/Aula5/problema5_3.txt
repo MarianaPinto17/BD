@@ -1,0 +1,30 @@
+-- Grupo p3g4
+-- Gonçalo Arieiro nº 80130
+-- Mariana Pinto 	nº 84792
+
+
+-- Problema 5.3
+
+a)
+
+π numUtente, nome (σ numPresc=null (π numUtente, nome (paciente) ⟕ prescricao))
+
+b)
+
+π especialidade, num (γ especialidade; count(especialidade) -> num ((prescricao ⨝ numMedico=numSNS medico)))
+
+c)
+
+π farmacia, num (γ farmacia; count(numPresc) -> num (σ farmacia != null (prescricao)))
+
+d)
+
+π farmaco.numRegFarm, nome (σ numPresc=null (σ numRegFarm=906 (farmaco) ⟕ nome=nomeFarmaco presc_farmaco))
+
+e)
+
+π farmacia, numRegFarm, num (γ farmacia, numRegFarm; count(prescricao.numPresc) -> num (σ farmacia!=null (π prescricao.numPresc, farmacia (prescricao)) ⨝ prescricao.numPresc=presc_farmaco.numPresc (presc_farmaco)))
+
+f)
+
+ π numUtente (σ num>1 (π numUtente,num (γ numUtente; count(numUtente) -> num (π numUtente, numMedico, num (γ numUtente, numMedico; count(numUtente) -> num prescricao)))))

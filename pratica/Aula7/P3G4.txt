@@ -1,0 +1,86 @@
+Mariana Pinto
+Gonçalo Arieiro
+
+7.1) 
+
+a) A Relação está na forma normal 1, porque os seus atributos são atómicos e tem dependencias funcionais.
+
+b)
+
+2ª Forma Normal
+
+Livro (Titulo_Livro, Nome_Autor, Tipo_Livro, Preco, NoPaginas, Editor, Endereco_Editor, Ano_Publicacao)
+Autor (Nome_Autor, Afiliacao_Autor)
+
+
+3ª Forma Normal
+
+Livro (Titulo_Livro, Nome_Autor, Tipo_Livro, NoPaginas, Editor, Ano_Publicacao)
+
+Autor (Nome_Autor, Afiliacao_Autor)
+
+Livro (Tipo_Livro, NoPaginas, Preco)
+
+Editor (Editor, Endereco_Editor)
+
+
+7.2)
+
+a)
+
+{A,B}
+
+b)
+
+R  = {A,B,C}
+A' = {A,D,E,I,J}
+B' = {B,F,G,H}
+
+c)
+
+R  = {A,B,C}
+A' = {A,D,E}
+B' = {B,F}
+C' = {F,G,H}
+D' = {D,I,J}
+
+
+7.3)
+
+a) 
+
+{A,B}
+
+b)
+
+R  = {A,B,C,D}
+A' = {D,E}
+
+c)
+
+R  = {A,B,D}
+A' = {D,E} 
+B' = {A,C}
+
+7.4)
+
+a)
+
+{A,B}
+
+b) 
+
+R  = {A,B,E}
+A' = {A,C,D}
+
+c)
+
+R  = {A,B,E}
+A' = {A,C}
+B' = {C,D}
+
+d)
+
+R  = {A,B,E}
+A' = {A,C}
+B' = {C,D}

@@ -1,0 +1,10 @@
+C:\Users\Mariana Pinto\Desktop\BD\pratica\aula1\ex1\ex1\ex1\bin\Debug\ex1.pdb
+C:\Users\Mariana Pinto\Desktop\BD\pratica\aula1\ex1\ex1\ex1\obj\Debug\ex1.csprojAssemblyReference.cache
+C:\Users\Mariana Pinto\Desktop\BD\pratica\aula1\ex1\ex1\ex1\obj\Debug\ex1.Properties.Resources.resources
+C:\Users\Mariana Pinto\Desktop\BD\pratica\aula1\ex1\ex1\ex1\obj\Debug\ex1.csproj.GenerateResource.cache
+C:\Users\Mariana Pinto\Desktop\BD\pratica\aula1\ex1\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Pinto\Desktop\BD\pratica\aula1\ex1\ex1\ex1\obj\Debug\ex1.pdb
+C:\Users\Mariana Pinto\Desktop\BD\pratica\aula1\ex1\ex1\ex1\obj\Debug\ex1.Form2.resources
+C:\Users\Mariana Pinto\Desktop\BD\pratica\aula1\ex1\ex1\ex1\bin\Debug\ex1.exe.config
+C:\Users\Mariana Pinto\Desktop\BD\pratica\aula1\ex1\ex1\ex1\bin\Debug\ex1.exe
+C:\Users\Mariana Pinto\Desktop\BD\pratica\aula1\ex1\ex1\ex1\obj\Debug\ex1.exe

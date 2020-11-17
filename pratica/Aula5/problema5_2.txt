@@ -1,0 +1,23 @@
+Grupo p3g4
+Gonçalo Arieiro nº 80130
+Mariana Pinto 	nº 84792
+
+
+Problema 5.2
+
+a)
+
+(fornecedor) - π nif,fornecedor.nome,fax,endereco,pagamento,tipo (((fornecedor) ⨝ fornecedor.nif=encomenda.fornecedor (encomenda)))
+
+b)
+
+γ item.codigoProduto;avg(item.unidades)->avg_unidades (item)
+
+c)
+
+γ avg(num_occurences)->avg_num_prod (γ item.numEnc; count(item.codProd)->num_occurences (item))
+
+d)
+
+π item.codProd,item.unidades,encomenda.fornecedor ((item) ⨝ item.numEnc = encomenda.numero (encomenda))
+
